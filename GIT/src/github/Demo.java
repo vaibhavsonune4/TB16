@@ -2,12 +2,13 @@ package github;
 
 public class Demo 
 {
-	public static void main(String[] args) 
-	{
-		public void m1()
+	public void m1()
 		{
 			system.out.println("m1")
-		}		
+		}
+	public static void main(String[] args) 
+	{
+				
 		
 		System.out.println("hello");
 		
